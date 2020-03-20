@@ -2,8 +2,7 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
                       https://maven.apache.org/xsd/settings-1.0.0.xsd">
-  <servers>
-    <activeProfiles>
+  <activeProfiles>
     <activeProfile>github</activeProfile>
   </activeProfiles>
 
@@ -29,7 +28,7 @@
   <servers>
     <server>
       <id>github</id>
-      <username>USERNAME</username>
-      <password>TOKEN</password>
+      <username>hemanth70052</username>
+      <password>acb8b5427b5db1b16ed3d830774fdf7d4bca94a6</password>
     </server>
    </servers>
