@@ -37,3 +37,4 @@ jobs:
         publish-profile: ${{secrets.azure_webapp_publish_profile}}
         app-name: myshuttle12
         package: drop/*.war
+
